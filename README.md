@@ -1,5 +1,5 @@
 # Title : Food symphony
-
+![Alt text](/poster-ADA-final.jpg?raw=true)
 # Abstract
 
 Have you ever wondered while cooking whether these ingredients could be great together ? A good example is certainly the Hawaiian pizza, which mixes, original pizza ingredients like tomato, ham and mozzarella, with pineapple, an exotic ingredient.
