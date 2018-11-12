@@ -39,5 +39,7 @@ Our objective was achieved, however, we believe we will not be able to create th
 # Member Contributions
 
 Etienne Dubois : Quantity serving webscrapping, preprocess functions, quantities & techniques for special recipes
+
 Tom Suter : Filters designer, Unit value webscrapping, Outliers, Linear Regression for nutrient informations
+
 Jonathan Chansin : Ingredient list webscrapping, Special recipes code, data analysis plots.
